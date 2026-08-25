@@ -1,5 +1,5 @@
 # knight-xyz
-Code for that UX goodness
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knight-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="knight-xyz" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knight-xyz&show_icons=true&theme=tokyonight)
