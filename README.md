@@ -1,5 +1,5 @@
 <a href="https://amidships.dev">
-  <img src="./assets/header.svg" alt="Jacob Knight: software engineer in London. A night sea with a sailing boat and a lighthouse." width="100%" />
+  <img src="./assets/header.svg" alt="Jacob Knight: software engineer in London. Finally... building for fun. A night sea with a sailing boat and a lighthouse." width="100%" />
 </a>
 
 <p align="center">
@@ -8,17 +8,15 @@
   <img src="https://img.shields.io/badge/home_port-London-a8243a?style=flat-square&labelColor=061722" alt="London" />
 </p>
 
-I'm a software engineer who loves creative projects, from games to robotics. Lately that means a lot of **building with AI**: my portfolio is a sea you sail around, and my Claude Code sessions talk back to me out loud.
+I'm a software engineer building things to keep my brain wrinkled. I love automation and building projects that are just.. fun? I'm continuously building with AI, using the latest strategies and workflows to maximize output and productivity.
 
-### 🏝️ Islands on the chart
+### 🔦 Spotlight
 
-| | Project | What it is | Built with |
-|---|---|---|---|
-| ⛵ | **[amidships.dev](https://amidships.dev)** | My portfolio, as a night sea you sail with the keyboard. Each island is a project. It runs on a hand-written Canvas 2D engine with no game libraries, has a CMS, and sends contact notes to a 58mm thermal printer on my desk as messages in bottles. | React 19 · React Router · TypeScript · Canvas 2D · Web Audio |
-| 📐 | **[AmplifiED](https://amplifieddisplays.co.uk)** | Made-to-measure display boards for schools, with an order pipeline behind the shop that runs itself. | Shopify Hydrogen · Admin API · Supabase · Resend · Tailwind |
-| 🎙️ | **Parley** | Talk to Claude Code by voice. You hold a hotkey and speak, your words go to the session you picked, and the reply is read back in an ElevenLabs voice. | Python · Claude Agent SDK · ElevenLabs |
-| 🃏 | **mtg-scout** | Watches classified listings for Magic: The Gathering collections whose sellers don't know what they have, scores them, and posts only the real bargains to Discord. | Python · SQLite · Scryfall |
-| 🔩 | **Still in the forge** | A few more islands are still under construction, including some ESP32 tinkering. | C++ · PlatformIO |
+<a href="https://amidships.dev">
+  <img src="./assets/spotlight-amidships.svg" alt="Spotlight: amidships.dev, a portfolio you sail. Every island is a project." width="100%" />
+</a>
+
+My portfolio is a night sea you sail with the keyboard, and each island is a project. It runs on a hand-written Canvas 2D engine with no game libraries, and notes sent through the contact page print on a thermal printer on my desk. **[Take the helm →](https://amidships.dev)**
 
 ### 🧭 Toolbox
 
@@ -37,12 +35,6 @@ I'm a software engineer who loves creative projects, from games to robotics. Lat
   <img src="https://img.shields.io/badge/Claude-0f3b4f?style=flat-square&logo=claude&logoColor=d8efe6" alt="Claude" />
   <img src="https://img.shields.io/badge/ESP32-0f3b4f?style=flat-square&logo=espressif&logoColor=d8efe6" alt="ESP32" />
 </p>
-
-I care a lot about **accessibility**, **web performance** and **testing**: the work that doesn't show up in a screenshot.
-
-### ⚓ Ashore
-
-You'll find me 🧗 rock climbing, 🏍️ on a motorbike, 🏁 at the race track, or 🃏 shuffling up for Magic: The Gathering.
 
 ---
 
