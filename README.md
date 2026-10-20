@@ -1,5 +1,5 @@
 <a href="https://amidships.dev">
-  <img src="./assets/header.svg" alt="Jacob Knight: software engineer in London. Finally... building for fun. A night sea with a sailing boat and a lighthouse." width="100%" />
+  <img src="./assets/night-sea.svg" alt="Jacob Knight: software engineer in London. Finally... building for fun. A night sea with a sailing boat and a lighthouse." width="100%" />
 </a>
 
 <p align="center">
